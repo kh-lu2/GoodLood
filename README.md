@@ -12,7 +12,7 @@ Some questions you may have:
 
 <details>
   <summary><h3>Why is the website in Polish?</h3></summary>
-  <p>Well, because we are Polish and it was made for our own purposes only.</p>
+  <p>Well, because we are Polish and it was created for our personal use only.</p>
 </details>
 
 <details>
